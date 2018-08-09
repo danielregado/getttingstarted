@@ -1,2 +1,2 @@
-# getttingstarted
-Testing
+# READ :)
+That's it.
